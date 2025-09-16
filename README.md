@@ -51,6 +51,11 @@ This is a repo to help you practice diffing!
 Fill in what each of the elements of the diff mean (if you are not sure just guess!):
 **①**:
 > Insert your explanation here
+Answer:
+diff --git a/README.md b/README.md ①
+command to get difference/changes between the files/commits, whereas it is a same file "README.md"
+- a/README.md - Before the changes
++ b/README.md - After the changes
 
 **②**:
 > Insert your answer here
