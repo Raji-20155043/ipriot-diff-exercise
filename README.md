@@ -53,12 +53,18 @@ Fill in what each of the elements of the diff mean (if you are not sure just gue
 > Insert your explanation here
 Answer:
 diff --git a/README.md b/README.md ①
-command to get difference/changes between the files/commits, whereas it is a same file "README.md"
+This format shows difference/changes between the files, whereas it is a same file "README.md"
 - a/README.md - Before the changes
 + b/README.md - After the changes
+git show "commitID" - will show the differences between files by 
+ the lines which have '-' sign denotes the a (README.md) file
+ the lines which have '+' sign dentotes the b (README.md) file
 
 **②**:
 > Insert your answer here
+Answer:
+index 7f35690..14cf26a 100644 ②
+Index is the bin file which shows the changes between the  7f35690..14cf26a
 
 **③**:
 > Insert your explanation here
