@@ -84,8 +84,12 @@ The original file had 9 lines at line no 8 and the updated file has 12 lines at 
 Answer
 1. Fork this repo ⑤
 Fork this repo means taking a personal copy in your account without affecting the original repository
+
 **⑥**:
 > Insert your explanation here
+Answer:
+-2. Clone your forked repo ⑥  - was in the original file
++2. Clone your forked repo: - updated this line with this content
 
 **⑦**:
 > Insert your answer here
