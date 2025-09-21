@@ -94,6 +94,11 @@ Answer:
 **⑦**:
 > Insert your answer here
 
+-Follow these instructions c.a.r.e.f.u.l.l.y. ⑦
++Follow these instructions carefully.
+
+First line (-) was updated as the second line (+)
+
 
 Notice that the diff above only showed different **lines** in the file. Including whitespaces. We can also highlight changes at the word level with the --word-diff option:
 
