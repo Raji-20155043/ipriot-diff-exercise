@@ -74,6 +74,10 @@ Denotes the first/previous occurence of README.md file
 
 **④**:
 > Insert your answer here
+Answer:
+@@ -8,9 +8,12 @@ ④
+The original file had 9 lines at line no 8 and the updated file has 12 lines at line no 8
+
 
 **⑤**:
 > Insert your answer here
