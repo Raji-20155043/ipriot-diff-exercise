@@ -64,7 +64,7 @@ git show "commitID" - will show the differences between files by
 > Insert your answer here
 Answer:
 index 7f35690..14cf26a 100644 ②
-Index is the bin file which shows the changes between the  7f35690..14cf26a
+Index is the bin file which shows the changes between the  7f35690..14cf26a  and 100644 is the file format
 
 **③**:
 > Insert your explanation here
